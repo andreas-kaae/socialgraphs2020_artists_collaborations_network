@@ -1,0 +1,45 @@
+The github repository is made as a part of the final exam project for the course 02805, Social graphs and interactions, at DTU during the fall of 2020.
+
+The project is presented on the webpage: https://lucid-mccarthy-a1e490.netlify.app/
+While all analysis is showed and explained in depth in the main_TheExplainerNotebook.ipynb
+
+
+The structure of the repository is explained below:
+
+├── main_TheExplainerNotebook.ipynb		<- main explainer notebook where all analysis is showed and explained.
+├── data 
+│   ├── graphs					<- networkx graphs
+│   │   ├── G_ARTGen.graphml
+│   │   ├── G_final.graphml
+│   │	├── G_final_sentiment.graphml
+│   │	└── G_uNW.graphml
+│   ├── other_files				<- data files used for the notebooks
+│   │   ├── artist_song_id.json
+│   │   ├── df_artist_info.pkl
+│   │   ├── df_song_info.pkl
+│   │   ├── genre_text.json
+│   │   ├── genre_text.json
+│   │	├── song_sentiment.json
+│   │	└── song_year.json
+│   └── network.json
+├── src		
+│   ├── analysis				
+│   │   ├── data_preparation.ipynb		<- notebook to prepare data for the analysis
+│   │   ├── network_artists.ipynb		<- notebook to prepare and filter the network before analysis
+│   │	└── useful_functions.ipynb
+│   └── data
+│   │   ├── scraper-genius.ipynb		<- notebook used for extracting song lyrics from Genius
+│   │   ├── scraper-spotify.ipynb		<- notebook used for extracting information from Spotify
+│   │	└── scraper-wikipedia.ipynb		<- notebook used to retrieve list of artists
+└── README.txt
+
+
+Only smaller datafiles can be found under the 'src/data/' folder.
+The bulk of the data can be downloaded from:
+
+
+
+Authors:
+- Andreas Kaae, s154395
+- Silvia De Sojo, s192374
+- Pietro Rampazzo, s203257
