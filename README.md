@@ -22,6 +22,8 @@ The structure of the repository is explained below:
 │   │   ├── genre_text.json
 │   │	├── song_sentiment.json
 │   │	└── song_year.json
+│   ├── sentiment			
+│   │   ├── Data_set_S1.txt         <- file used to calculated sentiment of words
 │   └── network.json
 ├── src		
 │   ├── analysis				
