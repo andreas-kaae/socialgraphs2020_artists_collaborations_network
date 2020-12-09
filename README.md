@@ -40,7 +40,7 @@ The structure of the repository is explained below:
 ```
 
 Due to datalimitations smaller datafiles can be found under the 'data/' folder.
-The bulk of the data can only be downloaded from [sharpoint](https://dtudk.sharepoint.com/:f:/s/SocialGraphs/EuBRcNF_in5DstLNO9TLj-cB15cRZaLtjwzbqWebhIfczw?e=M93Op4) due to data limitations on github. 
+The bulk of the data can only be downloaded from [sharepoint](https://dtudk.sharepoint.com/:f:/s/SocialGraphs/EuBRcNF_in5DstLNO9TLj-cB15cRZaLtjwzbqWebhIfczw?e=M93Op4) due to data limitations on github. 
 
 
 
