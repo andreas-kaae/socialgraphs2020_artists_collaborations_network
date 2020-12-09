@@ -34,7 +34,7 @@ The structure of the repository is explained below:
 └── README.txt
 
 
-Only smaller datafiles can be found under the 'src/data/' folder.
+Due to datalimitations smaller datafiles can be found under the 'src/data/' folder.
 The bulk of the data can be downloaded from:
 
 
