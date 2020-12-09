@@ -1,6 +1,6 @@
 The github repository is made as a part of the final exam project for the course 02805, Social graphs and interactions, at DTU during the fall of 2020.
 
-The project is presented on the webpage: https://artists-collaborations-network.netlify.app.
+The project is presented on the [webpage](https://artists-collaborations-network.netlify.app).
 While all analysis are showed and explained in depth in the `main_TheExplainerNotebook.ipynb`.
 
 
@@ -40,7 +40,7 @@ The structure of the repository is explained below:
 ```
 
 Due to datalimitations smaller datafiles can be found under the 'data/' folder.
-The bulk of the data can be downloaded from:
+The bulk of the data can only be downloaded from [sharpoint](https://dtudk.sharepoint.com/:f:/s/SocialGraphs/EuBRcNF_in5DstLNO9TLj-cB15cRZaLtjwzbqWebhIfczw?e=M93Op4) due to data limitations on github. 
 
 
 
