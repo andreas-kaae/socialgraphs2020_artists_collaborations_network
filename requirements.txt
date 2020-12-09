@@ -1,0 +1,14 @@
+matplotlib
+spotipy==2.16.1
+lyricsgenius==2.0.2
+unidecode==1.1.1
+swaglyrics==1.2.2
+networkx==2.5
+seaborn==0.11.0
+python-louvain==0.14
+nltk==3.5
+wordcloud==1.8.1
+fa2==0.3.5
+langdetect==1.0.8
+googletrans==3.0.0
+powerlaw==1.4.6
