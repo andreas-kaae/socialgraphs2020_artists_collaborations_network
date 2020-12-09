@@ -31,7 +31,7 @@ The structure of the repository is explained below:
 │   └── data
 │   │   ├── scraper-genius.ipynb		<- notebook used for extracting song lyrics from Genius
 │   │   ├── scraper-spotify.ipynb		<- notebook used for extracting information from Spotify
-│   │	└── scraper-wikipedia.ipynb		<- notebook used to retrieve list of artists
+│   │	  └── scraper-wikipedia.ipynb		<- notebook used to retrieve list of artists
 └── README.txt
 ```
 
