@@ -34,6 +34,7 @@ The structure of the repository is explained below:
 │   │   ├── scraper-genius.ipynb		  <- notebook used for extracting song lyrics from Genius
 │   │   ├── scraper-spotify.ipynb		  <- notebook used for extracting information from Spotify
 │   │	└── scraper-wikipedia.ipynb		<- notebook used to retrieve list of artists
+├── webpage	                          <- scripts used to construct plots for the webpage
 └── README.md
 ```
 
