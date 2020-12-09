@@ -27,11 +27,11 @@ The structure of the repository is explained below:
 │   ├── analysis				
 │   │   ├── data_preparation.ipynb		<- notebook to prepare data for the analysis
 │   │   ├── network_artists.ipynb		<- notebook to prepare and filter the network before analysis
-│   │	  └── useful_functions.ipynb  <- notebook with functions used through out the notebooks
+│   │	 └── useful_functions.ipynb  <- notebook with functions used through out the notebooks
 │   └── data
 │   │   ├── scraper-genius.ipynb		<- notebook used for extracting song lyrics from Genius
 │   │   ├── scraper-spotify.ipynb		<- notebook used for extracting information from Spotify
-│   │	  └── scraper-wikipedia.ipynb		<- notebook used to retrieve list of artists
+│   │	 └── scraper-wikipedia.ipynb		<- notebook used to retrieve list of artists
 └── README.txt
 ```
 
