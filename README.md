@@ -6,6 +6,7 @@ While all analysis is showed and explained in depth in the main_TheExplainerNote
 
 The structure of the repository is explained below:
 
+```
 ├── main_TheExplainerNotebook.ipynb		<- main explainer notebook where all analysis is showed and explained.
 ├── data 
 │   ├── graphs					<- networkx graphs
@@ -32,7 +33,7 @@ The structure of the repository is explained below:
 │   │   ├── scraper-spotify.ipynb		<- notebook used for extracting information from Spotify
 │   │	└── scraper-wikipedia.ipynb		<- notebook used to retrieve list of artists
 └── README.txt
-
+```
 
 Due to datalimitations smaller datafiles can be found under the 'data/' folder.
 The bulk of the data can be downloaded from:
