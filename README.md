@@ -7,7 +7,6 @@ While all analysis are showed and explained in depth in the `main_TheExplainerNo
 The structure of the repository is explained below:
 
 ```
-├── main_TheExplainerNotebook.ipynb		<- main explainer notebook where all analysis is showed and explained.
 ├── data 
 │   ├── graphs					<- networkx graphs
 │   │   ├── G_ARTGen.graphml
@@ -35,6 +34,8 @@ The structure of the repository is explained below:
 │   │   ├── scraper-spotify.ipynb		  <- notebook used for extracting information from Spotify
 │   │	└── scraper-wikipedia.ipynb		<- notebook used to retrieve list of artists
 ├── webpage	                          <- scripts used to construct plots for the webpage
+├── main_TheExplainerNotebook.ipynb		<- main explainer notebook where all analysis is showed and explained.
+├── main_TheExplainerNotebook.html		<- main explainer notebook as html
 ├── README.md
 └── requirements.txt
 ```
