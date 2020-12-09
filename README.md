@@ -12,26 +12,26 @@ The structure of the repository is explained below:
 │   ├── graphs					<- networkx graphs
 │   │   ├── G_ARTGen.graphml
 │   │   ├── G_final.graphml
-│   │	├── G_final_sentiment.graphml
-│   │	└── G_uNW.graphml
+│   │	  ├── G_final_sentiment.graphml
+│   │	  └── G_uNW.graphml
 │   ├── other_files				<- data files used for the notebooks
 │   │   ├── artist_song_id.json
 │   │   ├── df_artist_info.pkl
 │   │   ├── df_song_info.pkl
 │   │   ├── genre_text.json
 │   │   ├── genre_text.json
-│   │	├── song_sentiment.json
-│   │	└── song_year.json
+│   │	  ├── song_sentiment.json
+│   │	  └── song_year.json
 │   └── network.json
 ├── src		
 │   ├── analysis				
 │   │   ├── data_preparation.ipynb		<- notebook to prepare data for the analysis
 │   │   ├── network_artists.ipynb		  <- notebook to prepare and filter the network before analysis
-│   │	 └── useful_functions.ipynb     <- notebook with functions used through out the notebooks
+│   │	  └── useful_functions.ipynb     <- notebook with functions used through out the notebooks
 │   └── data
 │   │   ├── scraper-genius.ipynb		  <- notebook used for extracting song lyrics from Genius
 │   │   ├── scraper-spotify.ipynb		  <- notebook used for extracting information from Spotify
-│   │	 └── scraper-wikipedia.ipynb		<- notebook used to retrieve list of artists
+│   │	  └── scraper-wikipedia.ipynb		<- notebook used to retrieve list of artists
 └── README.md
 ```
 
