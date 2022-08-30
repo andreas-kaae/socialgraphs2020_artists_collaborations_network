@@ -1,3 +1,5 @@
+# Project 02805 - Social graphs and interactions
+
 The github repository is made as a part of the final exam project for the course 02805, Social graphs and interactions, at DTU during the fall of 2020.
 
 The project is presented on the [webpage](https://artists-collaborations-network.netlify.app).
